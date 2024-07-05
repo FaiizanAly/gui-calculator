@@ -14,7 +14,7 @@ A simple, responsive calculator application built using only HTML, CSS, and Java
 
 ## Demo
 
-You can try the live demo of the calculator [here](https://your-live-demo-link.com).
+You can try the live demo of the calculator [here]([https://your-live-demo-link.com](https://calculatorbyfaizan.netlify.app/)).
 
 ## Installation
 
@@ -56,5 +56,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Feel free to replace `path_to_screenshot.png` with the actual path to your screenshot and `https://your-live-demo-link.com` with the link to your live demo if available.
