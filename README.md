@@ -14,7 +14,7 @@ A simple, responsive calculator application built using only HTML, CSS, and Java
 
 ## Demo
 
-You can try the live demo of the calculator [here](https://your-live-demo-link.com).
+You can try the live demo of the calculator [here](https://calculatorbyfaizan.netlify.app/).
 
 ## Installation
 
